@@ -1,4 +1,4 @@
-id,name,teacher_id
-101,Science01,1
-102,Science02,1
-103,Maths01,2
+id,name,teacher_id,start_date
+101,Science01,1,2025-09-10
+102,Science02,1,2025-09-11
+103,Maths01,2,2025-09-12
